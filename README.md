@@ -17,10 +17,38 @@ The dataset was sourced from [clinicaltrials.gov](https://clinicaltrials.gov) an
 
 ## Project Structure
 
-- `data/`: Contains the raw dataset downloaded from clinicaltrials.gov.
-- `notebooks/`: Jupyter notebooks with code and analysis used in the project.
-- `scripts/`: Python scripts for data parsing, cleaning, and analysis.
-- `reports/`: Generated reports and visualizations.
+The project directory is organized as follows:
 
+- **`/data`**: Contains all data used in the project.
+  - **`/raw`**: Holds the raw, unprocessed data, including data specific to sleep apnea and other conditions.
+  - **`/processed`**: Contains cleaned and processed versions of the raw data.
+  - **`/external`**: Includes additional external data sources, such as industry reports.
 
+- **`/notebooks`**: Jupyter notebooks for various stages of data analysis.
+  - **`01_data_preprocessing.ipynb`**: For data cleaning and transformation.
+  - **`02_exploratory_analysis.ipynb`**: For exploratory data analysis and visualizations.
+  - **`03_modeling.ipynb`**: For any predictive modeling efforts (optional).
+  - **`04_partnership_analysis.ipynb`**: To analyze and identify potential business partners.
+  - **`05_results_visualization.ipynb`**: For final results and visualizations.
+  - **`exploratory_notebooks.ipynb`**: For initial exploration and preliminary analyses.
 
+- **`/scripts`**: Python scripts for specific tasks.
+  - **`data_preprocessing.py`**: Script for preprocessing and cleaning data.
+  - **`analysis_functions.py`**: Contains custom functions for data analysis.
+  - **`visualization.py`**: Script for generating plots and charts.
+  - **`helper.py`**: Utility scripts for tasks like data loading and configuration.
+
+- **`/reports`**: Contains documentation and output of the analysis.
+  - **`/figures`**: Folder for storing images, charts, and other visual outputs.
+  - **`final_report.md`**: Summary and final report of the findings.
+
+- **`/docs`**: Additional documentation related to the project.
+  - **`README.md`**: Overview of the project and instructions for setup.
+
+- **`requirements.txt`**: Lists the required Python libraries and packages.
+
+- **`LICENSE`**: Contains license information for the project.
+
+- **`.gitignore`**: Specifies files and directories to be excluded from version control.
+
+This structure ensures a clear organization of data, analysis, and documentation, facilitating efficient management and collaboration on the project.
