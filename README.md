@@ -6,7 +6,7 @@ This project focuses on identifying potential business partners for a sleep apne
 
 ## Data Source
 
-The dataset was sourced from [clinicaltrials.gov](https://clinicaltrials.gov) and downloaded on **September 16, 2024**.
+The datasets were sourced from [clinicaltrials.gov](https://clinicaltrials.gov) and downloaded on **September 16, 2024**.
 
 ## Research Methodology
 
