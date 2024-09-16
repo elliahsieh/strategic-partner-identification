@@ -20,7 +20,7 @@ The dataset was sourced from [clinicaltrials.gov](https://clinicaltrials.gov) an
 - `data/`: Contains the raw dataset downloaded from clinicaltrials.gov.
 - `notebooks/`: Jupyter notebooks with code and analysis used in the project.
 - `scripts/`: Python scripts for data parsing, cleaning, and analysis.
-- `reports/`: Documentation and output.
+- `reports/`: Generated reports and visualizations.
 
 
 
