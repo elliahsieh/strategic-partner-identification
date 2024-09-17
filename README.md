@@ -45,7 +45,10 @@ The project directory is organized as follows:
 - `/docs`: Additional documentation related to the project.
   - `README.md`: Overview of the project and instructions for setup.
 
-- `requirements.txt`: Lists the required Python libraries and packages.
+- `requirements.txt`: This project uses Jupyter Notebook from the Anaconda distribution. Ensure you have Anaconda installed. You can then use the following command to create a new environment with the exact dependencies required for this project:
+    ```bash
+    conda create --name myenv --file requirements.txt
+    ```
 
 - `LICENSE`: Contains license information for the project.
 
