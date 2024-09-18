@@ -1,53 +1,45 @@
-# Import visualization libraries
+# Data Visualization Libraries
+import plotly.express as px            # For simple and interactive plots
+import plotly.graph_objects as go       # For customizable and advanced visualizations
+import plotly.figure_factory as ff      # For complex and specialized visualizations
+import plotly.subplots as make_subplots # For creating subplots in Plotly
+import matplotlib.pyplot as plt         # Traditional 2D plotting
+import seaborn as sns                   # Statistical graphics built on top of Matplotlib
 
-import plotly.express as px # simple and interactive plots
-import plotly.graph_objects as go # customizable and advanced visualizations
-import plotly.figure_factory as ff # complex and specialized visualizations
-import plotly.subplots as make_subplots # function to make subplots in Plotly, make arranging multiple plots together available
+# Display plots directly in Jupyter Notebook (if using a notebook)
+%matplotlib inline 
 
-import matplotlib.pyplot as plt # traditional 2D plotting
-%matplotlib inline
-# display plots directly in Jupyter notebook
-import seaborn as sns # attractive statistical graphics (built on top of Matplotlib)
-
-
-# Import data processing libraries
-
+# Data Processing Libraries
 import numpy as np
 import pandas as pd
 
-
-# Import EDA supporting library
-
-!pip install ydata-profiling
+# Exploratory Data Analysis (EDA) Supporting Library
+# Ensure 'ydata-profiling' is installed in the environment (use requirements.txt or environment.yml)
 from ydata_profiling import ProfileReport
 
+# Load Dataset
+# Provide the file path for the dataset
+file_path = 'your_dataset.csv'
+df = pd.read_csv(file_path)
 
-# Import dataset
+# Quick overview of the data
+print("First 5 rows of the dataset:")
+display(df.head())
 
-df = pd.read_csv('')
+print("\nDataset shape:", df.shape)
 
-
-df.head()
-
-
-df.shape
-
-
+print("\nDataset info:")
 df.info()
 
-
+# Generate EDA Report
+print("\nGenerating Profile Report...")
 report = ProfileReport(df)
-report
+report.to_notebook_iframe()  # Display the report in Jupyter Notebook
 
+# Check for missing values
+print("\nMissing values in the dataset:")
+print(df.isna().sum())
 
-# Check missing values
-
-df.isna().sum()
-
-
-# Check unique values
-
-df.nunique()
-
-
+# Check for unique values in each column
+print("\nNumber of unique values per column:")
+print(df.nunique())
