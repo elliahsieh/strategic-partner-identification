@@ -11,9 +11,10 @@ The datasets were sourced from [clinicaltrials.gov](https://clinicaltrials.gov) 
 ## Research Methodology
 
 1. **Phase 1**: Analysis of clinical trials directly related to sleep apnea to identify companies currently involved in diagnostics or treatments.
-2. **Phase 2**: Broader analysis of trials in related fields, including obesity, COPD, heart disease, and diabetes, to identify companies with potential future interest in sleep apnea.
-3. **Filtering Criteria**: Prioritization of trials involving commercial sponsors, ongoing studies, and those focused on diagnostic devices or relevant interventions.
-4. **Outcome**: The goal is to compile a comprehensive list of companies engaged in or potentially expanding into sleep apnea diagnostics or treatment.
+2. **Phase 2**: Identify potential business partners and categorize them to develop relevant proposals.
+3. **Phase 3**: Broader analysis of trials in related fields, including obesity, COPD, heart disease, and diabetes, to identify companies with potential future interest in sleep apnea.
+4. **Filtering Criteria**: Prioritization of trials involving commercial sponsors, ongoing studies, and those focused on diagnostic devices or relevant interventions.
+5. **Outcome**: The goal is to compile a comprehensive list of companies engaged in or potentially expanding into sleep apnea diagnostics or treatment.
 
 ## Project Structure
 
