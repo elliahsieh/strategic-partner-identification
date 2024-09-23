@@ -1,11 +1,11 @@
 Institution,Category
 "National Heart, Lung, and Blood Institute (NHLBI)",Research Institute
-Fisher and Paykel Healthcare,Device Company
-ResMed,Device Company
+Fisher and Paykel Healthcare,Solution Provider
+ResMed,Solution Provider
 Brigham and Women's Hospital,Healthcare Provider
 "University Hospital, Grenoble",Healthcare Provider
 VA Office of Research and Development,Research Institute
-Philips Respironics,Device Company
+Philips Respironics,Solution Provider
 "University of California, San Diego",Research Institute
 National Institutes of Health (NIH),Research Institute
 University of Michigan,Research Institute
@@ -33,7 +33,7 @@ Conselho Nacional de Desenvolvimento Científico e Tecnológico,Research Institu
 "University Hospital, Antwerp",Healthcare Provider
 Children's Hospital of Philadelphia,Healthcare Provider
 University of Arizona,Research Institute
-"Inspire Medical Systems, Inc.",Device Company
+"Inspire Medical Systems, Inc.",Solution Provider
 NYU Langone Health,Research Institute
 Hospital de Clinicas de Porto Alegre,Healthcare Provider
 Associação Fundo de Incentivo à Pesquisa,Research Institute
@@ -72,7 +72,7 @@ University of Crete,Research Institute
 Ohio State University,Research Institute
 "University of Wisconsin, Madison",Research Institute
 US Department of Veterans Affairs,Government Agency
-Nyxoah S.A.,Device Company
+Nyxoah S.A.,Solution Provider
 The Cleveland Clinic,Healthcare Provider
 Jazz Pharmaceuticals,Pharma
 Case Western Reserve University,Research Institute
@@ -87,12 +87,12 @@ Chulalongkorn University,Research Institute
 University of Illinois at Chicago,Research Institute
 Hospital Universitario Araba,Healthcare Provider
 "University of California, San Francisco",Research Institute
-Belun Technology Company Limited,Device Company
+Belun Technology Company Limited,Solution Provider
 Hospices Civils de Lyon,Healthcare Provider
-Sleepiz AG,Device Company
+Sleepiz AG,Solution Provider
 Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),Research Institute
 Columbia University,Research Institute
-Zephyr Sleep Technologies,Device Company
+Zephyr Sleep Technologies,Solution Provider
 Nanjing Medical University,Research Institute
 Institut für Pneumologie Hagen Ambrock eV,Research Institute
 Umeå University,Research Institute
@@ -110,13 +110,13 @@ Eastern Virginia Medical School,Research Institute
 Beth Israel Deaconess Medical Center,Healthcare Provider
 American Heart Association,Research Institute
 University of Missouri-Columbia,Research Institute
-LivaNova,Device Company
+LivaNova,Solution Provider
 Wayne State University,Research Institute
 Bioprojet,Pharma
 Uppsala University,Research Institute
 Fondo de Investigacion Sanitaria,Research Institute
 University of South Florida,Research Institute
-"Respicardia, Inc.",Device Company
+"Respicardia, Inc.",Solution Provider
 Göteborg University,Research Institute
 Children's Hospital of The King's Daughters,Healthcare Provider
 National Cancer Institute (NCI),Research Institute
@@ -124,10 +124,10 @@ Universidad de Granada,Research Institute
 National Institute of Neurological Disorders and Stroke (NINDS),Research Institute
 Canadian Institutes of Health Research (CIHR),Research Institute
 Yonsei University,Research Institute
-SleepRes Inc.,Device Company
-Heinen und Löwenstein GmbH & Co. KG,Device Company
-NovaResp Technologies Inc,Device Company
-Ectosense NV,Device Company
+SleepRes Inc.,Solution Provider
+Heinen und Löwenstein GmbH & Co. KG,Solution Provider
+NovaResp Technologies Inc,Solution Provider
+Ectosense NV,Solution Provider
 Women's College Hospital,Healthcare Provider
 Beijing Tongren Hospital,Healthcare Provider
 Oregon Health and Science University,Research Institute
@@ -142,21 +142,21 @@ Basque Health Service,Research Institute
 Albert Einstein Healthcare Network,Research Institute
 Takeda,Pharma
 Massachusetts General Hospital,Healthcare Provider
-"Sommetrics, Inc.",Device Company
-Signifier Medical Technologies,Device Company
+"Sommetrics, Inc.",Solution Provider
+Signifier Medical Technologies,Solution Provider
 University of Cincinnati,Research Institute
 "University Hospital, Rouen",Healthcare Provider
 Pulmonary Critical Care Associates of Baltimore,Healthcare Provider
-"Apnex Medical, Inc.",Device Company
+"Apnex Medical, Inc.",Solution Provider
 King Abdulaziz University,Research Institute
 Wissenschaftliches Institut Bethanien e.V,Research Institute
 The Swedish Research Council,Research Institute
-"Medtronic Xomed, Inc.",Device Company
+"Medtronic Xomed, Inc.",Solution Provider
 "University of Colorado, Denver",Research Institute
-Invicta Medical Inc.,Device Company
+Invicta Medical Inc.,Solution Provider
 Peking University First Hospital,Healthcare Provider
 "University Hospital, Clermont-Ferrand",Healthcare Provider
-Medtronic,Device Company
+Medtronic,Solution Provider
 Papworth Hospital NHS Foundation Trust,Healthcare Provider
 Baylor College of Medicine,Research Institute
 George Washington University,Research Institute
@@ -169,7 +169,7 @@ Imperial College London,Research Institute
 China Medical University Hospital,Healthcare Provider
 Patient-Centered Outcomes Research Institute,Research Institute
 Ahi Evren Chest and Cardiovascular Surgery Education and Research Hospital,Healthcare Provider
-"Somnics, Inc.",Device Company
+"Somnics, Inc.",Solution Provider
 Istanbul University - Cerrahpasa (IUC),Research Institute
 Toronto Rehabilitation Institute,Research Institute
 National University of Singapore,Research Institute
@@ -184,52 +184,52 @@ Kuopio University Hospital,Healthcare Provider
 State Key Laboratory of Respiratory Disease,Research Institute
 Eli Lilly and Company,Pharma
 Federal University of São Paulo,Research Institute
-Sunrise,Device Company
+Sunrise,Solution Provider
 Taipei Medical University Shuang Ho Hospital,Healthcare Provider
 University of Louisville,Research Institute
 "University Hospital, Lille",Healthcare Provider
 Hospital Universitario Ramon y Cajal,Healthcare Provider
 Singapore General Hospital,Healthcare Provider
-"ImThera Medical, Inc.",Device Company
+"ImThera Medical, Inc.",Solution Provider
 Royal Brompton & Harefield NHS Foundation Trust,Government Agency
 "All India Institute of Medical Sciences, New Delhi",Research Institute
 Eisai Inc.,Pharma
-"Bleep, LLC",Device Company
-"Cryosa, Inc.",Device Company
+"Bleep, LLC",Solution Provider
+"Cryosa, Inc.",Solution Provider
 American Academy of Otolaryngology-Head and Neck Surgery Foundation,Research Institute
 Societat Catalana de Pneumologia,Research Institute
 Henry Ford Health System,Healthcare Provider
-"ApniCure, Inc.",Device Company
+"ApniCure, Inc.",Solution Provider
 University of Toronto,Research Institute
 Sohag University,Research Institute
 Erasme University Hospital,Healthcare Provider
-Nyxoah Inc.,Device Company
+Nyxoah Inc.,Solution Provider
 "Hospital for Special Surgery, New York",Healthcare Provider
 University Hospital of North Norway,Healthcare Provider
-"Linguaflex, Inc.",Device Company
+"Linguaflex, Inc.",Solution Provider
 Finnish Institute for Health and Welfare,Research Institute
-EsteveTeijin Healthcare,Device Company
+EsteveTeijin Healthcare,Solution Provider
 Beijing Anzhen Hospital,Healthcare Provider
 Centre Hospitalier Régional d'Orléans,Healthcare Provider
 ICUREsearch,Research Institute
 Rijnstate Hospital,Healthcare Provider
 West Side ENT,Healthcare Provider
 Universidade Federal de Pernambuco,Research Institute
-Incannex Healthcare Ltd,Device Company
+Incannex Healthcare Ltd,Solution Provider
 Assiut University,Research Institute
-Hill-Rom,Device Company
+Hill-Rom,Solution Provider
 Hopital Foch,Healthcare Provider
-"Itamar-Medical, Israel",Device Company
+"Itamar-Medical, Israel",Solution Provider
 "University Hospital, Ghent",Healthcare Provider
 Uskudar University,Research Institute
 "United States Naval Medical Center, San Diego",Healthcare Provider
 VA Boston Healthcare System,Research Institute
-Compumedics Limited,Device Company
+Compumedics Limited,Solution Provider
 Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),Research Institute
 "Glostrup University Hospital, Copenhagen",Healthcare Provider
 Woolcock Institute of Medical Research,Research Institute
 Clayton Sleep Insititute,Healthcare Provider
-DeVilbiss Healthcare LLC,Device Company
+DeVilbiss Healthcare LLC,Solution Provider
 Rami Khayat,Individual
 Ottawa Heart Institute Research Corporation,Research Institute
 University of Roma La Sapienza,Research Institute
@@ -256,19 +256,19 @@ Hospital Universitari de Bellvitge,Healthcare Provider
 Fondazione Policlinico Universitario Agostino Gemelli IRCCS,Healthcare Provider
 Seattle Children's Hospital,Healthcare Provider
 Financiadora de Estudos e Projetos,Government Agency
-Philips Healthcare,Device Company
+Philips Healthcare,Solution Provider
 Erling Bjerregaard Pedersen,Individual
 The Miriam Hospital,Healthcare Provider
 Izmir Katip Celebi University,Research Institute
 French Cardiology Society,Research Institute
 Institut Jerome Lejeune,Research Institute
-OSR Medical Inc.,Device Company
+OSR Medical Inc.,Solution Provider
 Indiana University,Research Institute
 Soroka University Medical Center,Healthcare Provider
 Universidade Federal do Rio de Janeiro,Research Institute
 Idorsia Pharmaceuticals Ltd.,Pharma
 Sanofi,Pharma
-Aspire Medical,Device Company
+Aspire Medical,Solution Provider
 Poznan University of Medical Sciences,Research Institute
 University of Liverpool,Research Institute
 Eileen R. Chasens,Individual
@@ -276,11 +276,11 @@ Texas A&M University,Research Institute
 Shanghai 6th People's Hospital,Healthcare Provider
 Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz,Research Institute
 Milton S. Hershey Medical Center,Healthcare Provider
-VitalAire,Device Company
+VitalAire,Solution Provider
 Slb Pharma,Pharma
 Federal University of Paraíba,Research Institute
 RVW Clinical Consulting,Healthcare Provider
-InnoMed Healthscience Inc.,Device Company
+InnoMed Healthscience Inc.,Solution Provider
 University of Pernambuco,Research Institute
 Federation of Medical Specialties,Government Agency
 Fédération Française de Pneumologie,Government Agency
@@ -300,8 +300,8 @@ Icahn School of Medicine at Mount Sinai,Research Institute
 Skaraborg Hospital,Healthcare Provider
 National Institute of Nursing Research (NINR),Research Institute
 Fundacio Catalana de Pneumologia,Foundation
-Weinmann Geräte für Medizin GmbH + Co. KG,Device Company
-Sibel Health Inc.,Device Company
+Weinmann Geräte für Medizin GmbH + Co. KG,Solution Provider
+Sibel Health Inc.,Solution Provider
 Qilu Hospital of Shandong University,Healthcare Provider
 "National Institute for Health Research, United Kingdom",Research Institute
 Bispebjerg Hospital,Healthcare Provider
@@ -309,13 +309,13 @@ National Yang Ming Chiao Tung University,Research Institute
 Christian von Buchwald,Individual
 University of Turku,Research Institute
 Vanderbilt University,Research Institute
-Dreem,Device Company
+Dreem,Solution Provider
 University of Athens,Research Institute
-Zansors,Device Company
+Zansors,Solution Provider
 University of Copenhagen,Research Institute
 University of Alabama at Birmingham,Research Institute
 "Insel Gruppe AG, University Hospital Bern",Healthcare Provider
-Masimo Corporation,Device Company
+Masimo Corporation,Solution Provider
 University of Bergen,Research Institute
 National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),Research Institute
 Centre hospitalier de l'Université de Montréal (CHUM),Healthcare Provider
@@ -330,10 +330,10 @@ State University of New York at Buffalo,Research Institute
 University of Texas Southwestern Medical Center,Healthcare Provider
 Zeng Changhao,Individual
 Istituto Auxologico Italiano,Research Institute
-FRESCA Medical,Device Company
+FRESCA Medical,Solution Provider
 Instituto Nacional de Enfermedades Respiratorias,Research Institute
 "Axsome Therapeutics, Inc.",Pharma
-Air Liquide Healthcare Spain,Device Company
+Air Liquide Healthcare Spain,Solution Provider
 Clin-Experts,Consulting & CRO
 Ziekenhuis Oost-Limburg,Healthcare Provider
 University College London Hospitals,Healthcare Provider
@@ -344,16 +344,16 @@ Veterans Medical Research Foundation,Research Institute
 University Hospital Ostrava,Healthcare Provider
 Izmir Dr Suat Seren Chest Diseases and Surgery Education and Research Hospital,Healthcare Provider
 "Chinese Academy of Medical Sciences, Fuwai Hospital",Healthcare Provider
-Air Liquide Santé International,Device Company
+Air Liquide Santé International,Solution Provider
 Universidad de la Sabana,Research Institute
 University of Utah,Research Institute
 Heart and Diabetes Center North-Rhine Westfalia,Healthcare Provider
 CRI-The Clinical Research Institute GmbH,Healthcare Provider
-keepMED Ltd.,Device Company
+keepMED Ltd.,Solution Provider
 "University Hospital, Geneva",Healthcare Provider
 Swedish Heart Lung Foundation,Foundation
 Ulysses Magalang MD,Individual
-Novacor,Device Company
+Novacor,Solution Provider
 University College Dublin,Research Institute
 North Middlesex University Hospital,Healthcare Provider
 Purdue Pharma LP,Pharma
@@ -371,7 +371,7 @@ Facharztzentrum Sonneberg-Coburg uBAG,Healthcare Provider
 Floralis,Pharma
 Weston Brain Institute,Research Institute
 American Society for Metabolic and Bariatric Surgery,Research Institute
-Nexan Inc,Device Company
+Nexan Inc,Solution Provider
 Good Samaritan Hospital,Healthcare Provider
 "Steward St. Elizabeth's Medical Center of Boston, Inc.",Healthcare Provider
 Landstuhl Regional Medical Center,Healthcare Provider
@@ -390,7 +390,7 @@ Seattle Institute for Biomedical and Clinical Research,Healthcare Provider
 Mike O'Callaghan Military Hospital,Healthcare Provider
 The Marfan Foundation,Foundation
 Beijing Children's Hospital,Healthcare Provider
-PRISMA A.B.,Device Company
+PRISMA A.B.,Solution Provider
 Dutch Kidney Foundation,Foundation
 Shenzhen People's Hospital,Healthcare Provider
 "Mid-Atlantic Epilepsy and Sleep Center, LLC",Healthcare Provider
@@ -415,12 +415,12 @@ Universidade Federal Fluminense,Research Institute
 Great Ormond Street Hospital for Children NHS Foundation Trust,Healthcare Provider
 Centre Hospitalier Universitaire de Besancon,Healthcare Provider
 Assistance Publique Hopitaux De Marseille,Healthcare Provider
-"Vapotherm, Inc.",Device Company
+"Vapotherm, Inc.",Solution Provider
 Pontificia Universidad Catolica de Chile,Research Institute
-"EndoVx, Inc.",Device Company
-Shiphrah Biomedical Inc.,Device Company
+"EndoVx, Inc.",Solution Provider
+Shiphrah Biomedical Inc.,Solution Provider
 A.E.R.O.B.I.E.,Individual
-5 Santé,Device Company
+5 Santé,Solution Provider
 Hospital of Sezana,Healthcare Provider
 Laboratoire Crinex,Pharma
 Laboratoire Cidelec,Consulting & CRO
@@ -435,17 +435,17 @@ Restech Srl,Pharma
 Brown University,Research Institute
 Women and Infants Hospital of Rhode Island,Healthcare Provider
 University Hospital of Split,Healthcare Provider
-Linde Health Care,Device Company
+Linde Health Care,Solution Provider
 Massachusetts Institute of Technology,Research Institute
 Spain:Health Department. Basque Government.,Government Agency
 CAMC Health System,Healthcare Provider
 Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran,Research Institute
 Centre de Recherche en Nutrition Humaine Rhone-Alpe,Research Institute
 Centre de Recherche en Nutrition Humaine d'Auvergne,Research Institute
-"Facial Concepts, Inc.",Device Company
+"Facial Concepts, Inc.",Solution Provider
 Quironsalud,Healthcare Provider
 Lakehead University,Research Institute
-"Sleepy, Inc",Device Company
+"Sleepy, Inc",Solution Provider
 St. Joseph's Care Group,Healthcare Provider
 Fusion Health,Government Agency
 Russian Cardiology Research and Production Center,Research Institute
@@ -464,7 +464,7 @@ Tesan spa,Pharma
 Universiteit Antwerpen,Research Institute
 Universidad Nacional Autonoma de Mexico,Research Institute
 Tulane University,Research Institute
-Endo Tools Therapeutics S.A.,Device Company
+Endo Tools Therapeutics S.A.,Solution Provider
 Essam Fathi,Individual
 Zealand University Hospital,Healthcare Provider
 Washington State University,Research Institute
@@ -502,9 +502,9 @@ Nationwide Children's Hospital,Healthcare Provider
 Veranex,Consulting & CRO
 Rainbow Babies and Children's Hospital,Healthcare Provider
 Children's Hospital Los Angeles,Healthcare Provider
-"Breas Medical, Inc.",Device Company
+"Breas Medical, Inc.",Solution Provider
 University of Southern California,Research Institute
-Medtronic - MITG,Device Company
+Medtronic - MITG,Solution Provider
 Zhongnan Hospital,Healthcare Provider
 New York University,Research Institute
 "National Heart Institute, Egypt",Research Institute
@@ -526,7 +526,7 @@ Laboratoires Innothera,Pharma
 Biotrial,Consulting & CRO
 "Pneumology Department, Verdun Hospital",Healthcare Provider
 "EFCR Department and Sleep Laboratory, Grenoble Alpes University Hospital",Healthcare Provider
-"Gambro Renal Products, Inc.",Device Company
+"Gambro Renal Products, Inc.",Solution Provider
 "Union hospital, Toulouse",Healthcare Provider
 Royal Devon and Exeter NHS Foundation Trust,Government Agency
 University of Leeds,Research Institute
@@ -547,10 +547,10 @@ Shirley Ryan AbilityLab,Healthcare Provider
 Heart Foundation of Karnsjukhuset Sweden,Government Agency
 Ignis Therapeutics (Suzhou) Limited,Pharma
 Istanbul Sureyyapasa Chest Diseases and Chest Surgery Training and Research Hospital,Healthcare Provider
-VitalAire Incorporated (Respiratory Therapist time),Pharma
+VitalAire Incorporated (Respiratory Therapist time),Solution Provider
 Hong Kong University of Science and Technology,Research Institute
 Sociedad Vasco-Navarra de Patología Respiratoria,Research Institute
-RESPIRA,Pharma
+RESPIRA,Solution Provider
 "Hospital Alpes Leman, Annemasse",Healthcare Provider
 "Oriade Laboratory, Vizille",Research Institute
 "Christopher Hartnick, M.D.",Individual
@@ -561,17 +561,17 @@ National Center of Cardiology and Internal Medicine named after academician M.Mi
 Hôpital Necker-Enfants Malades,Healthcare Provider
 Hospital Universitario Virgen Macarena,Healthcare Provider
 MOUNT SINAI HOSPITAL,Healthcare Provider
-Resmed Inc,Device Company
-"Huxley Medical, Inc.",Device Company
+Resmed Inc,Solution Provider
+"Huxley Medical, Inc.",Solution Provider
 Ankara City Hospital Bilkent,Healthcare Provider
 Adep Assistance,Consulting & CRO
 The Gerber Foundation,Foundation
 "Centre Hospitalier Universitaire, Amiens",Healthcare Provider
 Partners HealthCare,Consulting & CRO
 Hospital Virgen de la Salud,Healthcare Provider
-ResMed Canada Inc.,Device Company
+ResMed Canada Inc.,Solution Provider
 Dr John Kimoff,Individual
-Sensimed AG,Pharma
+Sensimed AG,Solution Provider
 Royal Free Hospital NHS Foundation Trust,Healthcare Provider
 University Hospital Olomouc,Healthcare Provider
 South-Eastern Norway Regional Health Authority,Research Institute
@@ -583,8 +583,8 @@ Yuzuncu Yıl University,Research Institute
 National Institute on Drug Abuse (NIDA),Research Institute
 "Taisho Pharmaceutical Co., Ltd.",Pharma
 Universitätsklinikum Hamburg-Eppendorf,Healthcare Provider
-Abbott Medical Devices,Pharma
-Remastered Sleep LLC,Device Company
+Abbott Medical Devices,Solution Provider
+Remastered Sleep LLC,Solution Provider
 Ain Shams University,Research Institute
 Ahram Canadian University,Research Institute
 Sarah Network of Rehabilitation Hospitals,Healthcare Provider
@@ -602,7 +602,7 @@ Aghia Sophia Children's Hospital of Athens,Healthcare Provider
 Sociedad Madrileña de Neumologia,Research Institute
 University of Bern,Research Institute
 Polyclinique Poitiers,Healthcare Provider
-"Philips (China) Investment CO., LTD",Device Company
+"Philips (China) Investment CO., LTD",Solution Provider
 Royal Children's Hospital,Healthcare Provider
 Monash Health,Healthcare Provider
 Beijing Tsinghua Changgeng Hospital,Healthcare Provider
@@ -614,10 +614,10 @@ The Queen Elizabeth Hospital,Healthcare Provider
 Lyell McEwin Hospital,Healthcare Provider
 Instituto Vasco de Investigación Sanitaria (BIOEF),Research Institute
 Hospital Arnau de Vilanova,Healthcare Provider
-SIBEL SL,Device Company
+SIBEL SL,Solution Provider
 "Hospital San Carlos, Madrid",Healthcare Provider
 Wake Forest University,Research Institute
-"AirCare Labs, LLC",Device Company
+"AirCare Labs, LLC",Solution Provider
 Maimónides Biomedical Research Institute of Córdoba,Research Institute
 CSEM Centre Suisse d'Electronique et de Microtechnique SA - Recherche et Developpement,Research Institute
 European Clinical Trial Experts Network,Healthcare Provider
@@ -639,14 +639,14 @@ The University of Texas Health Science Center at San Antonio,Research Institute
 First Hospital of China Medical University,Healthcare Provider
 McMaster University,Research Institute
 University of Nove de Julho,Research Institute
-Philips Electronics Nederland B.V. acting through Philips CTO organization,Device Company
+Philips Electronics Nederland B.V. acting through Philips CTO organization,Solution Provider
 Sanford Health,Healthcare Provider
 Hartford HealthCare,Healthcare Provider
 University of Houston,Research Institute
 West Virginia University,Research Institute
 You First Services,Consulting & CRO
 "Taipei Veterans General Hospital, Taiwan",Healthcare Provider
-AIRWEAVE PTE. LTD.,Device Company
+AIRWEAVE PTE. LTD.,Solution Provider
 "Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul, Brazil",Foundation
 George Mason University,Research Institute
 Baptist Health Wolfson Surgery Center,Healthcare Provider
@@ -663,7 +663,7 @@ Shanghai Children's Hospital,Healthcare Provider
 Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University,Healthcare Provider
 Shanghai Stomotological Hospital,Healthcare Provider
 Societat Catalana de Cardiologia,Research Institute
-"Vivos BioTechnologies, Inc.",Device Company
+"Vivos BioTechnologies, Inc.",Solution Provider
 St. Louis University,Research Institute
 V Joseph,Individual
 ANF,Consulting & CRO
@@ -671,7 +671,7 @@ C Minville,Individual
 Li-Jen Hsin,Individual
 C Rheaume,Individual
 GROUPE DE RECHERCHE EN SANTÉ RESPIRATOIRE DE L'UNIVERSITÉ LAVAL (GESER),Research Institute
-Medtronic Endovascular,Device Company
+Medtronic Endovascular,Solution Provider
 Michigan Technological University,Research Institute
 FusionHealth LLC,Government Agency
 Medical University of Lodz,Research Institute
@@ -694,7 +694,7 @@ Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center,Heal
 Luciana Almeida Moreira da Paz Oliveira,Individual
 StimAire Australia Pty Ltd,Government Agency
 Hawler Medical University,Research Institute
-BioAnalytics Holdings Pty Ltd,Pharma
+BioAnalytics Holdings Pty Ltd,Solution Provider
 NHS Highlands,Healthcare Provider
 Haukeland University Hospital,Healthcare Provider
 Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.,Government Agency
@@ -704,8 +704,8 @@ Vastra Gotaland Region,Research Institute
 Borås Lasarett,Healthcare Provider
 Skaraborgs Hospital,Healthcare Provider
 "NU-Hospital Organization, Sweden",Healthcare Provider
-Philips Portuguesa S.A.,Device Company
-RAND,Device Company
+Philips Portuguesa S.A.,Solution Provider
+RAND,Solution Provider
 "University Hospital, Akershus",Healthcare Provider
 University of Oslo,Research Institute
 Oslo Metropolitan University,Research Institute
@@ -713,7 +713,7 @@ Act For Chronic Diseases,Foundation
 Heart Foundation of Australia,Government Agency
 Reykjavik University,Research Institute
 Conseil national de l'ordre des masseurs-kinésithérapeutes,Research Institute
-Löwenstein Medical Technology GmbH & Co. KG,Device Company
+Löwenstein Medical Technology GmbH & Co. KG,Solution Provider
 Rajavithi Hospital,Healthcare Provider
 Taoyuan General Hospital,Healthcare Provider
 Brno University Hospital,Healthcare Provider
@@ -722,7 +722,7 @@ National Taipei University of Nursing and Health Sciences,Research Institute
 Cheng-Hsin General Hospital,Healthcare Provider
 Copka Sonpashan,Individual
 Association aide à la recherche médicale de proximité (AIRE),Research Institute
-Sky Labs,Device Company
+Sky Labs,Solution Provider
 Monash University,Research Institute
 Gangnam Severance Hospital,Healthcare Provider
 Dayzz Live Well Ltd.,Consulting & CRO
@@ -743,9 +743,9 @@ Hospital de Guadalajara,Healthcare Provider
 Chung Shan Medical University,Research Institute
 MTI University,Research Institute
 VA Greater Los Angeles Healthcare System,Research Institute
-"Mars, Inc.",Device Company
-"Siesta Medical, Inc.",Pharma
-Dymedix Corporation,Device Company
+"Mars, Inc.",Solution Provider
+"Siesta Medical, Inc.",Solution Provider
+Dymedix Corporation,Solution Provider
 CHU de Reims,Healthcare Provider
 Fundación Jimenez Diaz de Madrid,Foundation
 "Clinimark, LLC",Consulting & CRO
@@ -793,15 +793,15 @@ Zisis Dimitriadis,Individual
 Olympus Surgical Technologies Europe,Government Agency
 VA Long Beach Healthcare System,Healthcare Provider
 Beckman Laser Institute University of California Irvine,Research Institute
-BresoTEC Inc.,Device Company
-Zoll Medical Corporation,Device Company
+BresoTEC Inc.,Solution Provider
+Zoll Medical Corporation,Solution Provider
 "Asate LLC, DE",Consulting & CRO
 Tel-Aviv Sourasky Medical Center,Healthcare Provider
 Annie C Lajoie,Individual
 Shanghai Jiao Tong University Affiliated Sixth People's Hospital,Healthcare Provider
 Sigvaris France,Consulting & CRO
 Bichat Hospital,Healthcare Provider
-Icadom,Device Company
+Icadom,Solution Provider
 DOCAPOST,Consulting & CRO
 "Scientific Laboratory Products, Ltd.",Research Institute
 Ipsen,Pharma
@@ -812,7 +812,7 @@ Alexandria University,Research Institute
 "Royal College of Surgeons, Ireland",Research Institute
 Connolly Hospital Blanchardstown,Healthcare Provider
 Clinact,Consulting & CRO
-Tyco Healthcare Group,Device Company
+Tyco Healthcare Group,Solution Provider
 Taipei Medical University,Research Institute
 Guangzhou Institute of Respiratory Disease,Research Institute
 Sheffield Children's NHS Foundation Trust,Government Agency
@@ -826,20 +826,20 @@ Nykøbing Falster County Hospital,Healthcare Provider
 "Center of Expertise, Oringe Psychiatric Hospital,Vordingborg, Denmark",Healthcare Provider
 WellO2 Oy,Consulting & CRO
 Pulmonar,Healthcare Provider
-Tatch Inc.,Device Company
+Tatch Inc.,Solution Provider
 Universidad Complutense de Madrid,Research Institute
 ProSomnus Sleep Technologies,Government Agency
 Fundació Eurecat,Research Institute
-Medtronic BRC,Device Company
-Löwenstein Medical Technology,Device Company
+Medtronic BRC,Solution Provider
+Löwenstein Medical Technology,Solution Provider
 Central Finland Hospital District,Healthcare Provider
 Avania,Consulting & CRO
-"Resvent Medical Technology Co., Ltd.",Device Company
+"Resvent Medical Technology Co., Ltd.",Solution Provider
 Capri Medical Limited,Healthcare Provider
 Pennington Biomedical Research Center,Research Institute
 University Hospital Virgen de las Nieves,Healthcare Provider
 TROPOS Stiftung für Humane Verhaltensforschung,Foundation
-Filha ry,Device Company
+Filha ry,Solution Provider
 University of Jyvaskyla,Research Institute
 Organisation for Respiratory Health in Finland,Government Agency
 Dr Bob Ryder,Consulting & CRO
@@ -866,7 +866,7 @@ Universitat de Lleida,Research Institute
 Institut de Recerca Biomèdica de Lleida,Research Institute
 Horizon 2020 - European Commission,Government Agency
 Xu J,Consulting & CRO
-NightBalance,Device Company
+NightBalance,Solution Provider
 John Hunter Hospital,Healthcare Provider
 Newcastle University,Research Institute
 Hunter Medical Research Institute,Research Institute
@@ -878,16 +878,16 @@ University of Liege,Research Institute
 SATT Linksium GRENOBLE,Consulting & CRO
 Mauro Manconi,Individual
 Michael Garron Hospital,Healthcare Provider
-Y.A. Appscent Ltd.,Device Company
+Y.A. Appscent Ltd.,Solution Provider
 Haute Ecole de Santé Vaud,Research Institute
 Atlanstat,Consulting & CRO
 Université Catholique de Louvain,Research Institute
-Medartis AG,Device Company
-Ibermática/i3B,Device Company
+Medartis AG,Solution Provider
+Ibermática/i3B,Solution Provider
 Bioraba,Consulting & CRO
 Otto D. Schoch,Consulting & CRO
 AdventHealth,Healthcare Provider
-Somnial Inc,Device Company
+Somnial Inc,Solution Provider
 Norwegian University of Science and Technology,Research Institute
 Henri Mondor University Hospital,Healthcare Provider
 "Nanjing First Hospital, Nanjing Medical University",Healthcare Provider
@@ -903,29 +903,29 @@ Masih Daneshvari Hospital,Healthcare Provider
 University of Medicine and Dentistry of New Jersey,Research Institute
 Rennes University Hospital,Healthcare Provider
 Wellth Inc.,Consulting & CRO
-ResMed GmbH & Co KG,Device Company
+ResMed GmbH & Co KG,Solution Provider
 North Florida Foundation for Research and Education,Research Institute
 Sleep Health Centers,Healthcare Provider
 "Teva Pharmaceutical Industries, Ltd.",Government Agency
 Medical College of Wisconsin,Research Institute
-"Advanced Brain Monitoring, Inc.",Device Company
-"Somnetics International, Inc.",Device Company
+"Advanced Brain Monitoring, Inc.",Solution Provider
+"Somnetics International, Inc.",Solution Provider
 The University of Western Australia,Research Institute
 Solelhac Geoffroy,Foundation
-Metamason,Pharma
+Metamason,Solution Provider
 Reinhard Löwenstein-Stiftung,Foundation
 Suburban Lung Associates,Healthcare Provider
-Sleepinnov Technology,Device Company
+Sleepinnov Technology,Solution Provider
 Cliniques universitaires Saint-Luc- Université Catholique de Louvain,Research Institute
 Cliniques universitaires Saint-Luc,Research Institute
 Bridgeport Hospital,Healthcare Provider
 NeilMed Pharmaceuticals,Pharma
-Tecno Sun SRL,Pharma
+Tecno Sun SRL,Solution Provider
 Centro Studi Gised,Research Institute
-"Kai Medical, Inc.",Device Company
+"Kai Medical, Inc.",Solution Provider
 Southern California Institute for Research and Education,Research Institute
 "University of Colorado, Boulder",Research Institute
-Linde AG,Pharma
+Linde AG,Solution Provider
 Nordsjaellands Hospital,Healthcare Provider
 Mackay Memorial Hospital,Healthcare Provider
 "Fondazione C.N.R./Regione Toscana ""G. Monasterio"", Pisa, Italy",Foundation
@@ -937,27 +937,27 @@ Actelion,Pharma
 Adelaide Institute for Sleep Health,Research Institute
 The George Institute,Research Institute
 "Health Research Council, New Zealand",Research Institute
-"Seda Chemical Products Co., Ltd.",Device Company
+"Seda Chemical Products Co., Ltd.",Solution Provider
 Aarhus University Hospital,Healthcare Provider
-Fleury,Pharma
-Zennea Technologies Inc.,Device Company
+Fleury,Healthcare Provider
+Zennea Technologies Inc.,Solution Provider
 Interior Health,Healthcare Provider
 "University of North Carolina, Chapel Hill",Research Institute
 Harvard University,Research Institute
 Novo Nordisk A/S,Pharma
 VA Loma Linda Health Care System,Healthcare Provider
-Vyaire Medical,Device Company
+Vyaire Medical,Solution Provider
 ET Zarief,Consulting & CRO
 "University of Maryland, Baltimore",Research Institute
 Kanta-Häme Central Hospital,Healthcare Provider
 Helsingin Uniklinikka,Healthcare Provider
 "Vaasa Central Hospital, Vaasa, Finland",Healthcare Provider
-Revent Medical International B.V.,Device Company
+Revent Medical International B.V.,Solution Provider
 Hospital Universitario del Henares,Healthcare Provider
-"ISS, Inc.",Device Company
+"ISS, Inc.",Solution Provider
 Carle Foundation Hospital,Healthcare Provider
-Seven Dreamers Europe SAS,Device Company
-nastent.inc,Device Company
+Seven Dreamers Europe SAS,Solution Provider
+nastent.inc,Solution Provider
 Onze Lieve Vrouwe Gasthuis,Healthcare Provider
 Karolinska Institutet,Research Institute
 "SEFAM MEDICAL (Villiers les Nancy, France)",Healthcare Provider
@@ -965,10 +965,10 @@ University of Arkansas,Research Institute
 Arkansas Children's Hospital Research Institute,Healthcare Provider
 BTI Biotechnology Institute S.L,Research Institute
 Instituto de Investigación Sanitaria BIO-ARABA,Research Institute
-Seven Dreamers Laboratories,Device Company
+Seven Dreamers Laboratories,Solution Provider
 "Uppsala County Council, Sweden",Government Agency
 Innovaderm Research Inc.,Research Institute
-Abbott,Pharma
+Abbott,Solution Provider
 Helsinki University Central Hospital,Healthcare Provider
 Oulu University Hospital,Healthcare Provider
 First Affiliated Hospital of Harbin Medical University,Healthcare Provider
@@ -1002,11 +1002,11 @@ SciSparc,Pharma
 Children's Mercy Hospital Kansas City,Healthcare Provider
 Geisinger Clinic,Healthcare Provider
 University of South Carolina,Research Institute
-Sleep Systems,Device Company
+Sleep Systems,Solution Provider
 New England IRB,Consulting & CRO
 "Mass Lung and Allergy, PC",Healthcare Provider
 "Janssen Research & Development, LLC",Research Institute
-"Somne, LLC",Device Company
+"Somne, LLC",Solution Provider
 California Center for Sleep Disorders,Healthcare Provider
 CIDELEC,Consulting & CRO
 Indiana University Health,Research Institute
@@ -1017,7 +1017,7 @@ St. Olavs Hospital,Healthcare Provider
 North Texas Lung & Sleep Clinic,Healthcare Provider
 Englewood Hospital and Medical Center,Healthcare Provider
 Groupe Hospitalier Pitie-Salpetriere,Healthcare Provider
-"Sotera Wireless, Inc.",Device Company
+"Sotera Wireless, Inc.",Solution Provider
 Aspen Clinical Research,Healthcare Provider
 Hospital Sao Joao,Healthcare Provider
 Hospital Pedro Hispano,Healthcare Provider
@@ -1036,26 +1036,26 @@ Hadassah Medical Organization,Research Institute
 University of Iowa,Research Institute
 Sunderbyn Hospital,Healthcare Provider
 Hospital Universitario La Fe,Healthcare Provider
-Medtronic Cardiac Rhythm and Heart Failure,Device Company
+Medtronic Cardiac Rhythm and Heart Failure,Solution Provider
 Francisco Campos-Rodriguez,Individual
 Fisiolistic,Healthcare Provider
 "Heidi Roth, MD",Individual
 Louis Stokes VA Medical Center,Healthcare Provider
-VitalAire Nederland BV,Device Company
-SomnoMed Goedegebuure,Device Company
+VitalAire Nederland BV,Solution Provider
+SomnoMed Goedegebuure,Solution Provider
 "State Budgetary Healthcare Institution, National Medical Surgical Center N.A. N.I. Pirogov, Ministry of Health of Russia",Research Institute
 Sunnybrook Research Institute,Research Institute
 University of Kansas Medical Center,Healthcare Provider
 Romaker & Associates,Consulting & CRO
 Universitätsmedizin Mannheim,Healthcare Provider
 University of Luebeck,Research Institute
-Cerebra Medical,Device Company
+Cerebra Medical,Solution Provider
 Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,Healthcare Provider
 "St. Luke's Hospital, Chesterfield, Missouri",Healthcare Provider
-Great Lakes NeuroTechnologies Inc.,Device Company
+Great Lakes NeuroTechnologies Inc.,Solution Provider
 Valerie Attali,Individual
 VU University of Amsterdam,Research Institute
-ArthroCare Corporation,Device Company
+ArthroCare Corporation,Solution Provider
 Calgary Health Region,Healthcare Provider
 Leonard Davis Institute of Health Economics,Research Institute
 "Association Nationale pour les Traitements A Domicile, les Innovations et la Recherche",Research Institute
